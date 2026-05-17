@@ -1,1 +1,2 @@
-print('fa')
+for i in range(10):
+    print("hi")
